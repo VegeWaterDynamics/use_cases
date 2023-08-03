@@ -1,0 +1,14 @@
+name: motrainer-gen
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab>=3.1.0
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+  - netCDF4
+  - scikit-learn
+  - tensorflow
+  - seaborn
