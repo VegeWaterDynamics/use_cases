@@ -25,3 +25,7 @@
 Question:
 1. Why only using the CR not VH, VV
 2. Why only use 1 yr?
+
+Potentials:
+1. Xarray replacing the DF in data loading?
+2. dask-ml implematation on GridSearchCV?

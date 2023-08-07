@@ -12,3 +12,6 @@ dependencies:
   - scikit-learn
   - tensorflow
   - seaborn
+  - shap
+  - pip:
+    - tensorflow-probability
